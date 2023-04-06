@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: My Jekyll Website
+description: A description of my website
+baseurl: "/my-jekyll-website"
+url: "https://ggupta2005.github.io/"
